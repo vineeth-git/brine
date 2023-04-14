@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  alert_name: MyString
+  user_id: 1
+  target_price: 1
+  status: 1
+
+two:
+  alert_name: MyString
+  user_id: 1
+  target_price: 1
+  status: 1
